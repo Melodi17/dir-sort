@@ -1,0 +1,204 @@
+﻿{
+  "Images": [
+    "png",
+    "jpg",
+    "tif",
+    "tiff",
+    "bmp",
+    "jpeg",
+    "gif",
+    "eps",
+    "raw",
+    "cr2",
+    "nef",
+    "orf",
+    "sr2",
+    "svg",
+    "webp"
+  ],
+  "Text Files": [
+    "txt",
+    "fpt",
+    "docx",
+    "rtf",
+    "log",
+    "doc",
+    "odt"
+  ],
+  "Presentation": [
+    "ppt",
+    "pptx"
+  ],
+  "Data Files": [
+    "csv",
+    "key",
+    "keychain",
+    "dat",
+    "sdf",
+    "tar",
+    "xml",
+    "vcf"
+  ],
+  "Music": [
+    "aif",
+    "iff",
+    "m3u",
+    "m4a",
+    "mid",
+    "mp3",
+    "mpa",
+    "wav",
+    "wma"
+  ],
+  "Videos": [
+    "3g2",
+    "3gp",
+    "asf",
+    "avi",
+    "flv",
+    "m4v",
+    "mov",
+    "mp4",
+    "mpg",
+    "rm",
+    "srt",
+    "swf",
+    "mkv",
+    "vob",
+    "wmv",
+    "webm"
+  ],
+  "3d": [
+    "3dm",
+    "3ds",
+    "max",
+    "obj"
+  ],
+  "Spreadsheet": [
+    "xlr",
+    "xls",
+    "xlsx"
+  ],
+  "Database": [
+    "db",
+    "sql",
+    "accdb",
+    "dbf",
+    "mdb",
+    "pdb",
+    "sqlite",
+    "json"
+  ],
+  "Executables": [
+    "apk",
+    "app",
+    "bat",
+    "cgi",
+    "com",
+    "exe",
+    "gadget",
+    "jar",
+    "wsf",
+    "msi"
+  ],
+  "Game Files": [
+    "b",
+    "dem",
+    "gam",
+    "nes",
+    "rom",
+    "sav"
+  ],
+  "PDF": [
+    "pdf"
+  ],
+  "Web Files": [
+    "asp",
+    "aspx",
+    "css",
+    "htm",
+    "html",
+    "js",
+    "jsp",
+    "php",
+    "rss"
+  ],
+  "Plugin Files": [
+    "crx",
+    "plugin",
+    "fnt",
+    "fon",
+    "otf",
+    "ttf"
+  ],
+  "System Files": [
+    "cab",
+    "deskthemepack",
+    "dll",
+    "ico",
+    "sys",
+    "lnk",
+    "dmp",
+    "drv"
+  ],
+  "Settings Files": [
+    "ini",
+    "cfg",
+    "prf"
+  ],
+  "Compressed Files": [
+    "7z",
+    "cbr",
+    "deb",
+    "gz",
+    "pkg",
+    "rar",
+    "rpm",
+    "tar.gz",
+    "zip",
+    "zipx",
+    "tgz"
+  ],
+  "Disk Image Files": [
+    "bin",
+    "dmg",
+    "iso",
+    "mdf",
+    "vcd"
+  ],
+  "Developer Files": [
+    "c",
+    "class",
+    "cpp",
+    "cs",
+    "java",
+    "pl",
+    "py",
+    "sh",
+    "vb",
+    "vcxproj",
+    "jsp",
+    "servlet"
+  ],
+  "Designer Files": [
+    "ai",
+    "psd",
+    "eps",
+    "ps",
+    "svg",
+    "indd",
+    "cdr",
+    "sketch",
+    "mdp",
+    "xd",
+    "fig",
+    "drawio"
+  ],
+  "Misc Files": [
+    "ics"
+  ],
+  "Torrent Files": [
+    "part",
+    "torrent"
+  ]
+}
